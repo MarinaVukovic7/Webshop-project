@@ -1,0 +1,88 @@
+{
+  "flowers": [
+    {
+      "id": "ef9d165e-5738-466a-adf5-cd02a2ffc1aa",
+      "title": "Rose",
+      "description": "Beautiful rose and red roses for special occasions.",
+      "src": "images/rose.jpg",
+      "price": 15.99
+    },
+    {
+      "id": "ca2bd11d-9905-415a-a81a-38688b619751",
+      "title": "Lily",
+      "description": "Elegant white lilies with a sweet and intoxicating fragrance.",
+      "src": "images/lily.jpg",
+      "price": 12.49
+    },
+    {
+      "id": "14a11b1e-c56b-4cf4-b699-e4b3e5a1e026",
+      "title": "Sunflower",
+      "description": "Bright and cheerful sunflowers to brighten your day.",
+      "src": "images/sunflower.jpg",
+      "price": 9.99
+    },
+    {
+      "id": "c2c3512e-d211-4628-9b93-05747401f1ab",
+      "title": "Tulip",
+      "description": "Colorful tulips to add a touch of spring to any space.",
+      "src": "images/tulip.jpg",
+      "price": 8.75
+    },
+    {
+      "id": "1208559a-9189-4f08-aaff-78d432d915c0",
+      "title": "Daisy",
+      "description": "Classic daisies that symbolize innocence and purity.",
+      "src": "images/daisy.jpg",
+      "price": 7.99
+    },
+    {
+      "id": "27d09df1-9a40-465d-bf60-10b55cdd5d09",
+      "title": "Orchid",
+      "description": "Exotic orchids for a touch of luxury and elegance.",
+      "src": "images/orchid.jpg",
+      "price": 19.99
+    },
+    {
+      "id": "36640a8d-20ce-41b5-8557-62a73de9ba97",
+      "title": "Carnation",
+      "description": "Pretty carnations in various colors for every occassion.",
+      "src": "images/carnation.jpg",
+      "price": 6.99
+    },
+    {
+      "id": "129d1c45-180e-4a92-9bbb-64501d5e4f85",
+      "title": "Daffodil",
+      "description": "Cheerful daffodils to welcome the arrival of spring.",
+      "src": "images/daffodil.jpg",
+      "price": 10.25
+    },
+    {
+      "id": "84ebbfaa-01c9-40af-90fd-7fe3cebf100d",
+      "title": "Peony",
+      "description": "Luxurious peonies for a romantic and lush bouquet.",
+      "src": "images/peony.jpg",
+      "price": 18.50
+    },
+    {
+      "id": "6771a930-8738-414e-b2b8-4471111c05bd",
+      "title": "Chrysanthemum",
+      "description": "Versatile chrysanthemums in various colors and sizes.",
+      "src": "images/chrysanthemum.jpg",
+      "price": 11.99
+    },
+    {
+      "id": "7e8e4a6e-d828-4ce3-982a-8c8207a4fd99",
+      "title": "Hydrangea",
+      "description": "Beautiful hydrangeas that add a touch of elegance to any arrangement.",
+      "src": "images/hydrangea.jpg",
+      "price": 14.75
+    },
+    {
+      "id": "0dd6fa57-4a29-48c0-8b33-f68316428fd0",
+      "title": "Gerbera Daisy",
+      "description": "Vibrant gerbera daisies to brighten up any space.",
+      "src": "images/gerbera.jpg",
+      "price": 13.99
+    }
+  ]
+}
