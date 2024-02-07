@@ -27,6 +27,10 @@ Open the index.html file in your web browser.
 Browse the flower collection, add items to the cart, and adjust quantities.
 Utilize the search function to find specific flowers.
 Refreshing the page will retain your cart items and quantities due to local storage.
+Note: To ensure proper functionality, it's recommended to run the Flower Webshop on a local development server. If you open the index.html file directly in your browser, you may encounter issues fetching data from the JSON file due to browser security restrictions.
+1. Install a local development server. For example, you can use Live Server if you have Node.js installed.
+2. Navigate to the project directory and start the local server.
+3. Open your browser and visit http://localhost:8080 (or the appropriate URL provided by the local server).
 
 Contributing
 
